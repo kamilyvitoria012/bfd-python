@@ -1,0 +1,7 @@
+texto = input("Digite uma palavra:")
+texto = texto.upper()
+texto2 = texto.lower()
+quantidade = len(texto)
+print ("A palavra em maiúscula é:", texto)
+print ("A palavra em minuscula é:",texto2)
+print ("A palavra tem:",quantidade,"Caracteres")
